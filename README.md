@@ -3,7 +3,7 @@ Generate crypto currencies ascii price charts in a terminal.
 
 ![Chart illustration](/static/ccr_reader.png)
 
-## Description
+## Description
 
 CryptoCoinReader (CCR) is a python script which ioutputs in the terminal a historical diagram of multiple cryptocurrencies' price.
 
@@ -20,11 +20,11 @@ Python 3 is supported out of the box. Python 2 should be supported as long as `r
 
 CCR requires a few python packages not included in Python, namely [requests](http://docs.python-requests.org/en/master/), [numpy](https://www.numpy.org/) and [gnuplotlib](https://github.com/dkogan/gnuplotlib).
 
-## Author
+## Author
 
 Antonin Paillet <antonin@paillet.fr>.
 
-## License and copyright
+## License and copyright
 
 This program is free software; you can redistribute it and/or modify it under the terms of the Creative Commons Attributions Share Alike Internationnal Public Licence v4.0
 
