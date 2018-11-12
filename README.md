@@ -22,7 +22,7 @@ CCR requires a few python packages not included in Python, namely [requests](htt
 
 ## Author
 
-Antonin Paillet <antonin@paillet.fr>.
+Antonin Paillet `antonin@paillet.fr`
 
 ## License and copyright
 
