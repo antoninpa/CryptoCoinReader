@@ -14,7 +14,7 @@ By default it outputs a BTC to USD price chart over the last 3 days but you can 
 
 Just press [Enter] to enter the main menu.
 
-## About the script
+## About the script
 
 Python 3 is supported out of the box. Python 2 should be supported as long as `raw_input()` is changed into `input()`.
 
