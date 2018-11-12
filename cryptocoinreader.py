@@ -88,7 +88,7 @@ class CryptoCoinReader:
         otherwise they have no effect
         """
         os.system('clear')
-        #threading.Timer(%d, self.reader).start() % self.refresh_time
+        threading.Timer(%d, self.reader).start() % self.refresh_time
         os.system('clear')
 
         y_price, x_time = self.requestData()
