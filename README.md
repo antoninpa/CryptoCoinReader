@@ -1,5 +1,5 @@
 # CryptoCoinReader
-Generate crypto currencies ascii price charts in a terminal.
+*Generate crypto currencies ascii price charts in a terminal*
 
 ![Chart illustration](/static/ccr_reader.png)
 
