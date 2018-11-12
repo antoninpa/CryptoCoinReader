@@ -20,6 +20,8 @@ Python 3 is supported out of the box. Python 2 should be supported as long as `r
 
 CCR requires a few python packages not included in Python, namely [requests](http://docs.python-requests.org/en/master/), [numpy](https://www.numpy.org/) and [gnuplotlib](https://github.com/dkogan/gnuplotlib).
 
+Data is pulled from https://min-api.cryptocompare.com/.
+
 ## Author
 
 Antonin Paillet `antonin@paillet.fr`
