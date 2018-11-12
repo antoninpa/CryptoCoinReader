@@ -1,14 +1,14 @@
 #!/usr/bin python3
 # -*- coding: utf-8 -*-
 # title           :cryptocoinreader.py
-# description     :This program displays a cryptocurrency rate reader
+# description     :This program displays a cryptocurrency price reader
 # author          :<antonin@paillet.fr>
 # date            :
-# version         :0.1
-# usage           :python main.py
+# version         :1
+# usage           :python cryptocoinreader.py
 # notes           :
 # python_version  :3.5.6
-# licence         :CC/BY-NC-SA
+# licence         :CC/BY-SA
 # =======================================================================
 
 import sys, os
