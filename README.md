@@ -5,7 +5,7 @@ Generate crypto currencies ascii price charts in a terminal.
 
 ## Description
 
-CryptoCoinReader (CCR) is a python script which ioutputs in the terminal a historical diagram of multiple cryptocurrencies' price.
+CryptoCoinReader (CCR) is a python script which outputs in the terminal a historical diagram of multiple cryptocurrencies' price.
 
 By default it outputs a BTC to USD price chart over the last 3 days but you can customize it:
  * Choose which coin to compare to another coin as you wish
