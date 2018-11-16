@@ -16,7 +16,7 @@ Just press [Enter] to enter the main menu.
 
 ## About the script
 
-Python 3 is supported out of the box. Python 2 should be supported as long as `raw_input()` is changed into `input()`.
+~~Python 3 is supported out of the box. Python 2 should be supported as long as `raw_input()` is changed into `input()`~~. Use Python 2 ; python 3 compatibility to come soon.
 
 CCR requires a few python packages not included in Python, namely [requests](http://docs.python-requests.org/en/master/), [numpy](https://www.numpy.org/) and [gnuplotlib](https://github.com/dkogan/gnuplotlib).
 
